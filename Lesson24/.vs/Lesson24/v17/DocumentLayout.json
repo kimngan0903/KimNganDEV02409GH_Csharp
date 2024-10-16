@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBF299-405C-4C1A-8CDB-4EF8355A968B}|Lab03_6\\Lab03_6.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson24\\lab03_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBF299-405C-4C1A-8CDB-4EF8355A968B}|Lab03_6\\Lab03_6.csproj|solutionrelative:lab03_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACBF299-405C-4C1A-8CDB-4EF8355A968B}|Lab03_6\\Lab03_6.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson24\\lab03_6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACBF299-405C-4C1A-8CDB-4EF8355A968B}|Lab03_6\\Lab03_6.csproj|solutionrelative:lab03_6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab03_6\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_6\\Program.cs",
+              "RelativeToolTip": "Lab03_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:18:16.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_6\\Book.cs",
+              "RelativeDocumentMoniker": "Lab03_6\\Book.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_6\\Book.cs",
+              "RelativeToolTip": "Lab03_6\\Book.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:06:27.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
