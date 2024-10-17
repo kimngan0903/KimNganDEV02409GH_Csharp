@@ -5,50 +5,97 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Lab04_6
-{
-    internal class Account
+{ 
+    public class Account
     {
-        protected double balance;
-
-        // Constructor mặc định với giá trị khởi tạo của số dư
-        public Account(double initialBalance) 
+        public decimal Balance;
+        // Constructor với tham số đầu vào
+        public Account(decimal initialize)
         {
-            balance = initialBalance;        
+            if (initialize < 0)
+            {
+                throw new ArgumentException("Số tiền đầu vào không hợp lệ");
+            }
+            Balance = initialize;
         }
+        // tạo phương thức cho lớp Account
 
-        // Phương thức gửi tiền
-        public void Deposit(double money)
+        // Phương thức trả về số tiền trong tài khoản
+
+        // Phương thức gửi tiền cho ghi đè
+        public virtual void Deposit(decimal money)
         {
             if (money > 0)
             {
-                balance += money;
-                Console.WriteLine("Deposit successful. New balance: {0}", balance);
+                Balance += money;
             }
             else
             {
-                Console.WriteLine("Amount to deposit must be greater tham zoro.");
+                throw new ArgumentException(" Số tiền nạp vào không hợp lệ");
             }
         }
-
-        // Phương thức rút tiền
-        public void Withdraw(double money)
+        // Phương thức rút tiền từ tài khoản
+        public virtual void WithDraw(decimal money)
         {
-            if (money > 0 && balance >=money)
+            if (money <= 0)
             {
-                balance -= money;
-                Console.WriteLine("Withdraw successful. New balance: {0}", balance, money);
+                throw new ArgumentException("Số tiền rút không hợp lệ");
+            }
+            if (money > Balance)
+            {
+                throw new ArgumentException("Không đủ số dư để rút tiền");
             }
             else
             {
-                Console.WriteLine("Insufficient balance or invalid withdraw amount.");
+                Balance -= money;
             }
         }
-
-        // Phương thức lấy số dư hiện tại
-        public double GetBalance() 
-        { 
-            return balance; 
+        public decimal GetBalance()
+        {
+            return Balance;
         }
+    }
 
+    public class SavingAccount : Account
+    {
+        private decimal rate;// tỉ lệ lãi suất
+        // Constructor với 3 tham số đầu vào để khoeir tạo giá trị ban đầu
+        public SavingAccount(decimal initialize, decimal rate) : base(initialize)
+        {
+            // Kiểm tra nếu tỷ lệ lãi suất là số âm thì không  cho phép và hiển thị thôn báo\
+            if (rate < 0)
+            {
+                throw new ArgumentException("tỉ lệ lãi suất không hợp lệ");
+            }
+            this.rate = rate;
+
+        }
+        // Phương thức để lấy tiền lãi
+        public decimal GetInterest()
+        {
+            return rate * rate;
+        }
+    }
+    public class CheckAccount : Account
+    {
+        private decimal Fee;
+        // tạo phương thức constructor với 2tham số đầu vào
+        public CheckAccount(decimal initialize, decimal rate) : base(initialize)
+        {
+            if (Fee < 0)
+            {
+                throw new ArgumentException("Phí giao dịch không hợp lệ");
+            }
+            this.Fee = Fee;
+        }
+        public override void Deposit(decimal money)
+        {
+            base.Deposit(money);
+
+        }
+        public override void WithDraw(decimal money)
+        {
+            base.WithDraw(money);
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\Lesson24\\Lab03_4\\Lab03_4.csproj": {}
+    "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_4\\Lab03_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\Lesson24\\Lab03_4\\Lab03_4.csproj": {
+    "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_4\\Lab03_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\Lesson24\\Lab03_4\\Lab03_4.csproj",
+        "projectUniqueName": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_4\\Lab03_4.csproj",
         "projectName": "Lab03_4",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\Lesson24\\Lab03_4\\Lab03_4.csproj",
+        "projectPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_4\\Lab03_4.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\Lesson24\\Lab03_4\\obj\\",
+        "outputPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson24\\Lab03_4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
