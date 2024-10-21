@@ -47,9 +47,27 @@
                         break;
                     case 6:
                         Console.WriteLine("6 - Tính TBC các phần tử dương.");
+                        double average = Average(arrays);
+                        if (average == -1)
+                        {
+                            Console.WriteLine("Mảng không có phần tử dương.");
+                        }
+                        else
+                        {
+                            Console.WriteLine($"Trung bình cộng các phần tử dương: {average}");
+                        }
                         break;
                     case 7:
                         Console.WriteLine("7- Kiểm tra xem mảng có phải chứa các phần tử âm dương, đan xem nhau không?");
+                        bool isAlternate = IsAlternatePositiveNegative(arrays);
+                        if (isAlternate)
+                        {
+                            Console.WriteLine("Mảng chứa các phần tử âm dương đan xen nhau.");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Mảng không chứa các phần tử âm dương đan xen nhau.");
+                        }
                         break;
                     case 8:
                         Console.WriteLine("8 - Kết thúc");
@@ -180,6 +198,48 @@
             return maxCount;
         }
 
+        /// <summary>
+        /// 6- Tính TBC các phần tử dương.
+        /// </summary>
+        /// <param name="arr"></param>
+        /// <returns>double</returns>
+        static double Average(int[] arr)
+        {
+            int sumPositive = 0;
+            int countPositive = 0;
 
+            // Duyệt mảng để tính tổng và đếm số phần tử dương
+            foreach (int num in arr)
+            {
+                if (num > 0)
+                {
+                    sumPositive += num;
+                    countPositive++;
+                }
+            }
+            // Nếu có phần tử dương, tính trung bình cộng
+            if (countPositive > 0)
+            {
+                return (double)sumPositive / countPositive;
+            }
+            // Trả về -1 nếu không có phần tử dương
+            return -1;
+        }
+
+        /// <summary>
+        /// 7- Kiểm tra xem mảng có phải chứa các phần tử âm dương, đan xen nhau không?
+        /// </summary>
+        /// <param name="arr"></param>
+        static bool IsAlternatePositiveNegative(int[] arr)
+        {
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                if ((arr[i] > 0 && arr[i + 1] > 0) || (arr[i] < 0 && arr[i + 1] < 0))
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
     }
 }

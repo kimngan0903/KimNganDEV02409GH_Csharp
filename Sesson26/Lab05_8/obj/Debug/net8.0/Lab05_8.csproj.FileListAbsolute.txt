@@ -1,0 +1,15 @@
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\bin\Debug\net8.0\Lab05_8.exe
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\bin\Debug\net8.0\Lab05_8.deps.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\bin\Debug\net8.0\Lab05_8.runtimeconfig.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\bin\Debug\net8.0\Lab05_8.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\bin\Debug\net8.0\Lab05_8.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.AssemblyInfoInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.AssemblyInfo.cs
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.csproj.CoreCompileInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.sourcelink.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\refint\Lab05_8.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\Lab05_8.genruntimeconfig.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_8\obj\Debug\net8.0\ref\Lab05_8.dll

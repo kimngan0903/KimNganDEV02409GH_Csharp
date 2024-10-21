@@ -1,0 +1,15 @@
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\bin\Debug\net8.0\Lab05_5_Student.exe
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\bin\Debug\net8.0\Lab05_5_Student.deps.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\bin\Debug\net8.0\Lab05_5_Student.runtimeconfig.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\bin\Debug\net8.0\Lab05_5_Student.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\bin\Debug\net8.0\Lab05_5_Student.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.AssemblyInfoInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.AssemblyInfo.cs
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.csproj.CoreCompileInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.sourcelink.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\refint\Lab05_5_Student.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\Lab05_5_Student.genruntimeconfig.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson26\Lab05_5_Student\obj\Debug\net8.0\ref\Lab05_5_Student.dll
