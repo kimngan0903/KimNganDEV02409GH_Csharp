@@ -27,13 +27,13 @@
                 Console.WriteLine();
                 for (int j = 0; j <= a.GetUpperBound(1); j++)
                 {
-                    Console.WriteLine(" {0} ", a[i, j]);
+                    Console.Write(" {0} ", a[i, j]);
                 }
                 Console.WriteLine();
             }
 
             // Tìm các phần tử có chỉ số hàng bằng chỉ số cột
-            Console.WriteLine("Các phần tử có chỉ số hàng bằng chỉ số cột: ");
+            Console.WriteLine("\n Các phần tử có chỉ số hàng bằng chỉ số cột: ");
             for (int i = 0; i <= a.GetUpperBound(0); i++)
             {
                 for (int j = 0; j <= a.GetUpperBound(1);j++)

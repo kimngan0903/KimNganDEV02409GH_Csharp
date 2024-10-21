@@ -46,7 +46,7 @@ namespace Lab04_8
 
         public string Decrypt()
         {
-            string decryptData = Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(content));
+            string decryptData = System.Text.Encoding.UTF8.GetString(Convert.FromBase64String(content));
             Console.WriteLine("Nội dung decrypted");
             return decryptData;
         }

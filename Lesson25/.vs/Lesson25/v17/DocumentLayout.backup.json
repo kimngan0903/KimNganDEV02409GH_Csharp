@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson25\\lab04_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|solutionrelative:lab04_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson25\\lab04_8\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|solutionrelative:lab04_8\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson25\\lab04_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|solutionrelative:lab04_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A7FE7CE-BD4A-4314-972F-A3115C8B515D}|Lab04_8\\Lab04_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\lesson25\\lab04_8\\istoreable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Document.cs",
               "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson25\\Lab04_8\\Document.cs",
               "RelativeDocumentMoniker": "Lab04_8\\Document.cs",
               "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson25\\Lab04_8\\Document.cs",
               "RelativeToolTip": "Lab04_8\\Document.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwDAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:59:43.576Z",
               "EditorCaption": ""
@@ -69,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson25\\Lab04_8\\Program.cs",
               "RelativeDocumentMoniker": "Lab04_8\\Program.cs",
               "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Lesson25\\Lab04_8\\Program.cs",
               "RelativeToolTip": "Lab04_8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:54:07.591Z",
               "EditorCaption": ""
