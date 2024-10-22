@@ -1,0 +1,15 @@
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.exe
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.deps.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.runtimeconfig.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\bin\Debug\net8.0\DemoArrayList.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.AssemblyInfoInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.AssemblyInfo.cs
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.csproj.CoreCompileInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.sourcelink.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\refint\DemoArrayList.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\DemoArrayList.genruntimeconfig.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson27\DemoArrayList\obj\Debug\net8.0\ref\DemoArrayList.dll

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67E505B2-7A20-4251-ABDF-C5E00550BFBE}|Lab06_3\\Lab06_3.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67E505B2-7A20-4251-ABDF-C5E00550BFBE}|Lab06_3\\Lab06_3.csproj|solutionrelative:lab06_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C5AADC0-F113-44E6-AD25-40495E940EBE}|Lab06_4\\Lab06_4.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5AADC0-F113-44E6-AD25-40495E940EBE}|Lab06_4\\Lab06_4.csproj|solutionrelative:lab06_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{687C34D6-9FBD-4DEB-8031-EF73F851D7F2}|Lab06_2\\Lab06_2.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{687C34D6-9FBD-4DEB-8031-EF73F851D7F2}|Lab06_2\\Lab06_2.csproj|solutionrelative:lab06_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D41DB54D-DE6E-41EF-84A2-B18B7D36A1AA}|Lab06_1\\Lab06_1.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41DB54D-DE6E-41EF-84A2-B18B7D36A1AA}|Lab06_1\\Lab06_1.csproj|solutionrelative:lab06_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D41DB54D-DE6E-41EF-84A2-B18B7D36A1AA}|Lab06_1\\Lab06_1.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D41DB54D-DE6E-41EF-84A2-B18B7D36A1AA}|Lab06_1\\Lab06_1.csproj|solutionrelative:lab06_1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B283D0A7-904E-45DA-92E9-2B42AFA0D8FA}|Lab06_6\\Lab06_6.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson27\\lab06_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B283D0A7-904E-45DA-92E9-2B42AFA0D8FA}|Lab06_6\\Lab06_6.csproj|solutionrelative:lab06_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_3\\Program.cs",
-              "RelativeDocumentMoniker": "Lab06_3\\Program.cs",
-              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_3\\Program.cs",
-              "RelativeToolTip": "Lab06_3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:39:02.597Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_2\\Program.cs",
-              "RelativeDocumentMoniker": "Lab06_2\\Program.cs",
-              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_2\\Program.cs",
-              "RelativeToolTip": "Lab06_2\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwC0AAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06_6\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_6\\Program.cs",
+              "RelativeToolTip": "Lab06_6\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:23:23.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T02:37:47.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_1\\Product.cs",
-              "RelativeDocumentMoniker": "Lab06_1\\Product.cs",
-              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_1\\Product.cs",
-              "RelativeToolTip": "Lab06_1\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAswBcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:14:33.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab06_1\\Program.cs",
-              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_1\\Program.cs",
-              "RelativeToolTip": "Lab06_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab06_4\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson27\\Lab06_4\\Program.cs",
+              "RelativeToolTip": "Lab06_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:11:10.133Z",
+              "WhenOpened": "2024-10-22T02:25:29.369Z",
               "EditorCaption": ""
             }
           ]
