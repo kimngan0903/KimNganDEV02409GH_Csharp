@@ -29,8 +29,14 @@ namespace Lab07_1
 
             // In thông tin
             Console.WriteLine("Store Inventory");
-            Console.WriteLine();
+            Console.Write("\t Item #:   ");
+            Console.WriteLine(si.ItemNo);
+            Console.Write("\t Item Name:   ");
+            Console.WriteLine(si.ItemName);
+            Console.Write("\t Unit Price:   ");
+            Console.WriteLine(si.Price);
 
+            Console.Read();
         }
     }
 }

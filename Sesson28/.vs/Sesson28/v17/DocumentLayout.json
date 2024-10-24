@@ -1,14 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Source\\Repos\\Sesson28\\",
+  "WorkspaceRootPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A3E9302-7F4B-4335-B062-CFE17DE1291F}|Lab07_1\\Lab07_1.csproj|c:\\users\\admin\\source\\repos\\sesson28\\lab07_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3E9302-7F4B-4335-B062-CFE17DE1291F}|Lab07_1\\Lab07_1.csproj|solutionrelative:lab07_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|solutionrelative:lab07_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A3E9302-7F4B-4335-B062-CFE17DE1291F}|Lab07_1\\Lab07_1.csproj|c:\\users\\admin\\source\\repos\\sesson28\\lab07_1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A3E9302-7F4B-4335-B062-CFE17DE1291F}|Lab07_1\\Lab07_1.csproj|solutionrelative:lab07_1\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_8\\amountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|solutionrelative:lab07_8\\amountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_8\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19789FF0-948A-4CAE-81B4-2E1F594E9712}|Lab07_8\\Lab07_8.csproj|solutionrelative:lab07_8\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{566A0E34-A83E-4511-B968-44E4703B239C}|Lab07_6\\Lab07_6.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566A0E34-A83E-4511-B968-44E4703B239C}|Lab07_6\\Lab07_6.csproj|solutionrelative:lab07_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_7\\invalidmarkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|solutionrelative:lab07_7\\invalidmarkexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|solutionrelative:lab07_7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82536271-3E35-4002-B03E-F6367EB6BAEA}|Lab07_7\\Lab07_7.csproj|solutionrelative:lab07_7\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|solutionrelative:lab07_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_5\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|solutionrelative:lab07_5\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_5\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1635C7D4-72C6-454D-8CFB-98AB36B7CFC9}|Lab07_5\\Lab07_5.csproj|solutionrelative:lab07_5\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99ED4779-A436-48F2-8964-16B02ED1AE42}|Lab07_4\\Lab07_4.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99ED4779-A436-48F2-8964-16B02ED1AE42}|Lab07_4\\Lab07_4.csproj|solutionrelative:lab07_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DA7B37-A6CB-4412-A8EA-5C8C692A5143}|Lab07_3\\Lab07_3.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DA7B37-A6CB-4412-A8EA-5C8C692A5143}|Lab07_3\\Lab07_3.csproj|solutionrelative:lab07_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B21645-1FA9-4C7D-882A-1FC98E4479B6}|Lab07_2\\Lab07_2.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B21645-1FA9-4C7D-882A-1FC98E4479B6}|Lab07_2\\Lab07_2.csproj|solutionrelative:lab07_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43B21645-1FA9-4C7D-882A-1FC98E4479B6}|Lab07_2\\Lab07_2.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson28\\lab07_2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43B21645-1FA9-4C7D-882A-1FC98E4479B6}|Lab07_2\\Lab07_2.csproj|solutionrelative:lab07_2\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Dev.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Source\\Repos\\Sesson28\\Lab07_1\\Dev.cs",
-              "RelativeDocumentMoniker": "Lab07_1\\Dev.cs",
-              "ToolTip": "C:\\Users\\Admin\\Source\\Repos\\Sesson28\\Lab07_1\\Dev.cs",
-              "RelativeToolTip": "Lab07_1\\Dev.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Title": "AmountException.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\AmountException.cs",
+              "RelativeDocumentMoniker": "Lab07_8\\AmountException.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\AmountException.cs",
+              "RelativeToolTip": "Lab07_8\\AmountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:43:29.647Z",
+              "WhenOpened": "2024-10-24T03:26:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\Lecture.cs",
+              "RelativeDocumentMoniker": "Lab07_8\\Lecture.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\Lecture.cs",
+              "RelativeToolTip": "Lab07_8\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:23:44.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Source\\Repos\\Sesson28\\Lab07_1\\Program.cs",
-              "RelativeDocumentMoniker": "Lab07_1\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Source\\Repos\\Sesson28\\Lab07_1\\Program.cs",
-              "RelativeToolTip": "Lab07_1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_8\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_8\\Program.cs",
+              "RelativeToolTip": "Lab07_8\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T02:39:10.129Z",
+              "WhenOpened": "2024-10-24T03:23:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvalidMarkException.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\InvalidMarkException.cs",
+              "RelativeDocumentMoniker": "Lab07_7\\InvalidMarkException.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\InvalidMarkException.cs",
+              "RelativeToolTip": "Lab07_7\\InvalidMarkException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:16:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_7\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\Program.cs",
+              "RelativeToolTip": "Lab07_7\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:05:22.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnThit.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\AnThit.cs",
+              "RelativeDocumentMoniker": "Lab07_5\\AnThit.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\AnThit.cs",
+              "RelativeToolTip": "Lab07_5\\AnThit.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:47:27.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_6\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_6\\Program.cs",
+              "RelativeToolTip": "Lab07_6\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:42:59.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\Student.cs",
+              "RelativeDocumentMoniker": "Lab07_7\\Student.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_7\\Student.cs",
+              "RelativeToolTip": "Lab07_7\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:05:41.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnCo.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\AnCo.cs",
+              "RelativeDocumentMoniker": "Lab07_5\\AnCo.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\AnCo.cs",
+              "RelativeToolTip": "Lab07_5\\AnCo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:44:35.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_5\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_5\\Program.cs",
+              "RelativeToolTip": "Lab07_5\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:14:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_4\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_4\\Program.cs",
+              "RelativeToolTip": "Lab07_4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:05:29.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_3\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_3\\Program.cs",
+              "RelativeToolTip": "Lab07_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:52:22.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_2\\House.cs",
+              "RelativeDocumentMoniker": "Lab07_2\\House.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_2\\House.cs",
+              "RelativeToolTip": "Lab07_2\\House.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAMwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:36:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07_2\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson28\\Lab07_2\\Program.cs",
+              "RelativeToolTip": "Lab07_2\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:34:24.555Z",
               "EditorCaption": ""
             }
           ]

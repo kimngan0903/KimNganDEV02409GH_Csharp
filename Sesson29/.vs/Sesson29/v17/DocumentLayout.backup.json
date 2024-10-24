@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson29\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AAD25E-0E1C-4F03-BF61-8E6AA083D38B}|Lab08_1\\Lab08_1.csproj|d:\\dev_02409gh_kn\\kimngandev02409gh_csharp\\sesson29\\lab08_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AAD25E-0E1C-4F03-BF61-8E6AA083D38B}|Lab08_1\\Lab08_1.csproj|solutionrelative:lab08_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson29\\Lab08_1\\Program.cs",
+              "RelativeDocumentMoniker": "Lab08_1\\Program.cs",
+              "ToolTip": "D:\\DEV_02409GH_KN\\KimNganDEV02409GH_Csharp\\Sesson29\\Lab08_1\\Program.cs",
+              "RelativeToolTip": "Lab08_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:18:18.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
