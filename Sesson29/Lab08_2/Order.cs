@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab08_2
 {
-    class Order
+     class Order
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string Product { get; set; }
     }
 }
