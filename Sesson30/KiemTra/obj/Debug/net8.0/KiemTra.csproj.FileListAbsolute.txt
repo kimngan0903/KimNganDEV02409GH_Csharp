@@ -1,0 +1,15 @@
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.AssemblyInfoInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.AssemblyInfo.cs
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.csproj.CoreCompileInputs.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.sourcelink.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\bin\Debug\net8.0\KiemTra.exe
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\bin\Debug\net8.0\KiemTra.deps.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\bin\Debug\net8.0\KiemTra.runtimeconfig.json
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\bin\Debug\net8.0\KiemTra.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\bin\Debug\net8.0\KiemTra.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\refint\KiemTra.dll
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.pdb
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\KiemTra.genruntimeconfig.cache
+D:\DEV_02409GH_KN\KimNganDEV02409GH_Csharp\Sesson30\KiemTra\obj\Debug\net8.0\ref\KiemTra.dll
